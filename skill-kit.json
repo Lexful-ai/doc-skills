@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "lexful-documentation",
+  "name": "Lexful Documentation",
+  "version": "1.0.0",
+  "entryPoints": [
+    "lexful-docs",
+    "lexful-docs-wayfinder",
+    "lexful-docs-grill"
+  ],
+  "skills": [
+    {
+      "command": "lexful-docs",
+      "path": "skills/lexful-docs.md"
+    },
+    {
+      "command": "lexful-docs-wayfinder",
+      "path": "skills/lexful-docs-wayfinder.md"
+    },
+    {
+      "command": "lexful-docs-grill",
+      "path": "skills/lexful-docs-grill.md"
+    },
+    {
+      "command": "lexful-sop",
+      "path": "skills/lexful-sop.md"
+    },
+    {
+      "command": "lexful-runbook",
+      "path": "skills/lexful-runbook.md"
+    },
+    {
+      "command": "lexful-client-onboarding",
+      "path": "skills/lexful-client-onboarding.md"
+    },
+    {
+      "command": "lexful-client-offboarding",
+      "path": "skills/lexful-client-offboarding.md"
+    },
+    {
+      "command": "lexful-environment-overview",
+      "path": "skills/lexful-environment-overview.md"
+    },
+    {
+      "command": "lexful-change-plan",
+      "path": "skills/lexful-change-plan.md"
+    },
+    {
+      "command": "lexful-incident-review",
+      "path": "skills/lexful-incident-review.md"
+    },
+    {
+      "command": "lexful-backup-restore-test",
+      "path": "skills/lexful-backup-restore-test.md"
+    },
+    {
+      "command": "lexful-qbr-brief",
+      "path": "skills/lexful-qbr-brief.md"
+    },
+    {
+      "command": "lexful-skill-design",
+      "path": "skills/lexful-skill-design.md"
+    }
+  ]
+}
