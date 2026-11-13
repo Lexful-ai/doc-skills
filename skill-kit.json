@@ -2,11 +2,12 @@
   "schemaVersion": 1,
   "id": "lexful-documentation",
   "name": "Lexful Doc Skills",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "entryPoints": [
     "lexful-docs",
     "lexful-docs-wayfinder",
-    "lexful-docs-grill"
+    "lexful-docs-grill",
+    "ticket"
   ],
   "skills": [
     {
@@ -60,6 +61,14 @@
     {
       "command": "lexful-skill-design",
       "path": "skills/lexful-skill-design.md"
+    },
+    {
+      "command": "ticket",
+      "path": "skills/ticket.md"
+    },
+    {
+      "command": "halo-ticket",
+      "path": "skills/halo-ticket.md"
     }
   ]
 }

@@ -5,7 +5,7 @@ A native Lexful Skill Kit for drafting and reviewing MSP documentation in Ask Le
 | | |
 | --- | --- |
 | **Author** | Chris Day · Founder, Lexful |
-| **Release** | 1.0.0 · 10 November 2026 |
+| **Release** | 1.1.0 · 12 November 2026 |
 
 Start with [`/lexful-docs`](skills/lexful-docs.md) and describe what you need. Use [`/lexful-docs-wayfinder`](skills/lexful-docs-wayfinder.md) when you know the situation but are unsure what to document. Use [`/lexful-docs-grill`](skills/lexful-docs-grill.md) to pressure-test a draft or settle decisions that block it. You can also invoke any specialist directly.
 
@@ -22,9 +22,15 @@ Ten standalone skills for drafting or reviewing MSP documents. Each command defi
 - [`/lexful-qbr-brief`](skills/lexful-qbr-brief.md) · QBR brief
 - [`/lexful-skill-design`](skills/lexful-skill-design.md) · Skill design
 
+For ticket operations, start with [`/ticket`](skills/ticket.md) or invoke [`/halo-ticket`](skills/halo-ticket.md) directly with the Halo connector enabled. Use ticket history as evidence for SOP and incident review drafts.
+
 See [INSTALL.md](INSTALL.md) for GitHub and manual installation.
 
 ## Changelog
+
+### 1.1.0 · 12 November 2026
+
+Added the ticket dispatcher and Halo ticket specialist, with ticket-to-SOP examples.
 
 ### 1.0.0 · 10 November 2026
 
